@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T12:35:06.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6DJr1jTBOnxeV5swD8v0" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="5">
   <diagram name="1.1" id="h-GFLaBXhlOAgWrpycvO">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -935,6 +935,47 @@
         </mxCell>
         <mxCell id="jC5wFIBWtvTrvQyzrcNM-53" value="state" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WL39jIvzWk4XKLg65qXI" name="Page-5">
+    <mxGraphModel dx="1426" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-cfZapMocHoxt3IN9L0w-4" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Making Drawing" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-6" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Calling &quot;Reserve DWG Number&quot; (done)" vertex="1">
+          <mxGeometry height="110" width="110" x="359" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-8" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Exporting to pdf using script (ExportNames.py)&lt;div&gt;In this process will get asked for Doc. No. (done)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="339" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-11" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Upload into sharepoint by just providing file, and the generated filename using ExportNames.py (done)" vertex="1">
+          <mxGeometry height="119" width="119" x="355" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-13" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Downloaded from sharepoint to be approved, handled externally" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="-cfZapMocHoxt3IN9L0w-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Approved document gets uploaded back into sharepoint, gets approved flag and overwrites current Document." vertex="1">
+          <mxGeometry height="149" width="149" x="340" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
