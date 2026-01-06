@@ -965,7 +965,7 @@
         <mxCell id="-cfZapMocHoxt3IN9L0w-11" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-cfZapMocHoxt3IN9L0w-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Upload into sharepoint with generated filename using ExportNames.py" vertex="1">
+        <mxCell id="-cfZapMocHoxt3IN9L0w-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Upload into sharepoint with the generated filename from last step" vertex="1">
           <mxGeometry height="119" width="119" x="355" y="460" as="geometry" />
         </mxCell>
         <mxCell id="-cfZapMocHoxt3IN9L0w-13" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-12" value="">
