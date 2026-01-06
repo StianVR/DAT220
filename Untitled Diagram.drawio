@@ -998,7 +998,7 @@
         <mxCell id="NNYGYnGegAjjhWoP8CF5-9" edge="1" parent="1" source="NNYGYnGegAjjhWoP8CF5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NNYGYnGegAjjhWoP8CF5-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flow for å laste opp approved dokumenter, har en skisse, men er ikke opp og kjører enda" vertex="1">
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flowen fungerer slik at den laster opp en fil, og overkriver bare den filen den finner med samme navn og gjør dette som en major change." vertex="1">
           <mxGeometry height="69.5" width="160" x="560" y="765.25" as="geometry" />
         </mxCell>
         <mxCell id="NNYGYnGegAjjhWoP8CF5-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;ProjectID (text input)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Production/Embodiement (toggle)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Email (text, where to receive info)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;P/N Name (text, to define the name)&lt;/div&gt;" vertex="1">
