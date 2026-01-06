@@ -974,8 +974,8 @@
         <mxCell id="-cfZapMocHoxt3IN9L0w-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Downloaded from sharepoint to be approved, handled externally" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="-cfZapMocHoxt3IN9L0w-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Approved document gets uploaded back into sharepoint, gets approved flag and overwrites current Document." vertex="1">
-          <mxGeometry height="149" width="149" x="340" y="720" as="geometry" />
+        <mxCell id="-cfZapMocHoxt3IN9L0w-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Approved document gets uploaded back into sharepoint, gets approved flag and overwrites current Document as a major change" vertex="1">
+          <mxGeometry height="160" width="160" x="334.5" y="720" as="geometry" />
         </mxCell>
         <mxCell id="NNYGYnGegAjjhWoP8CF5-3" edge="1" parent="1" source="NNYGYnGegAjjhWoP8CF5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-3" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -999,7 +999,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NNYGYnGegAjjhWoP8CF5-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flow for å laste opp approved dokumenter, har en skisse, men er ikke opp og kjører enda" vertex="1">
-          <mxGeometry height="69.5" width="160" x="560" y="759.75" as="geometry" />
+          <mxGeometry height="69.5" width="160" x="560" y="765.25" as="geometry" />
         </mxCell>
         <mxCell id="NNYGYnGegAjjhWoP8CF5-15" edge="1" parent="1" source="NNYGYnGegAjjhWoP8CF5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-3" value="">
           <mxGeometry relative="1" as="geometry" />
