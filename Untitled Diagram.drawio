@@ -953,19 +953,19 @@
         <mxCell id="-cfZapMocHoxt3IN9L0w-6" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-cfZapMocHoxt3IN9L0w-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Calling &quot;Reserve DWG Number&quot; (done)" vertex="1">
+        <mxCell id="-cfZapMocHoxt3IN9L0w-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Calling &quot;Reserve DWG Number&quot;" vertex="1">
           <mxGeometry height="110" width="110" x="359" y="160" as="geometry" />
         </mxCell>
         <mxCell id="-cfZapMocHoxt3IN9L0w-8" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-cfZapMocHoxt3IN9L0w-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Exporting to pdf using script (ExportNames.py)&lt;div&gt;In this process will get asked for Doc. No. (done)&lt;/div&gt;" vertex="1">
+        <mxCell id="-cfZapMocHoxt3IN9L0w-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Exporting to pdf using script (ExportNames.py)&lt;div&gt;In this process will get asked for Doc. No.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="150" x="339" y="320" as="geometry" />
         </mxCell>
         <mxCell id="-cfZapMocHoxt3IN9L0w-11" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-cfZapMocHoxt3IN9L0w-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Upload into sharepoint by just providing file, and the generated filename using ExportNames.py (done)" vertex="1">
+        <mxCell id="-cfZapMocHoxt3IN9L0w-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Upload into sharepoint by just providing file, and the generated filename using ExportNames.py" vertex="1">
           <mxGeometry height="119" width="119" x="355" y="460" as="geometry" />
         </mxCell>
         <mxCell id="-cfZapMocHoxt3IN9L0w-13" edge="1" parent="1" source="-cfZapMocHoxt3IN9L0w-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-12" value="">
@@ -976,6 +976,30 @@
         </mxCell>
         <mxCell id="-cfZapMocHoxt3IN9L0w-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Approved document gets uploaded back into sharepoint, gets approved flag and overwrites current Document." vertex="1">
           <mxGeometry height="149" width="149" x="340" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-3" edge="1" parent="1" source="NNYGYnGegAjjhWoP8CF5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flowen ferdig, men må kunne aktiveres fra en intuitiv plass" vertex="1">
+          <mxGeometry height="70" width="120" x="560" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-5" edge="1" parent="1" source="NNYGYnGegAjjhWoP8CF5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Scriptet er skrevet og fungerer i mitt testenviorement. Men mangler tilgang for å sjekke dette mot skikkelige tegninger.&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="180" x="560" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-7" edge="1" parent="1" source="NNYGYnGegAjjhWoP8CF5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flowen er lagd og fungerer med testene kjørt, tar kun filen som input som muliggjør bulk opplastninger. Merk at navnet må lages av tidligere flower, ellers vil det ikke fungere. Trenger og intuitiv plass å laste dette opp." vertex="1">
+          <mxGeometry height="110" width="160" x="560" y="464.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-9" edge="1" parent="1" source="NNYGYnGegAjjhWoP8CF5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flow for å laste opp approved dokumenter, har en skisse, men er ikke opp og kjører enda" vertex="1">
+          <mxGeometry height="69.5" width="160" x="560" y="759.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
