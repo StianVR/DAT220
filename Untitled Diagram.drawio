@@ -1016,8 +1016,8 @@
         <mxCell id="NNYGYnGegAjjhWoP8CF5-19" edge="1" parent="1" source="NNYGYnGegAjjhWoP8CF5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-cfZapMocHoxt3IN9L0w-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NNYGYnGegAjjhWoP8CF5-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Upload File" vertex="1">
-          <mxGeometry height="30" width="220" x="70" y="504.5" as="geometry" />
+        <mxCell id="NNYGYnGegAjjhWoP8CF5-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Upload the generated file" vertex="1">
+          <mxGeometry height="55.5" width="220" x="70" y="491.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
